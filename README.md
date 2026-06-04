@@ -15,3 +15,6 @@ Start by running `npm install` inside the project folder
 
 ## Render Hosted Link
 https://fs-ci-cd.onrender.com
+
+## repository from the previous two exercises
+https://github.com/djtimog/task-flow
